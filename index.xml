@@ -72,14 +72,6 @@
     </item>
     
     <item>
-      <title>Numerical simulations study of a spin-1 Blume–Emery–Griffiths model on a square lattice</title>
-      <link>https://lmluque.github.io/publication/luque-2019/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://lmluque.github.io/publication/luque-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The role of hydrophobicity in the cold denaturation of proteins under high pressure: A study on apomyoglobin</title>
       <link>https://lmluque.github.io/publication/melymcb-0003/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -188,14 +180,6 @@
       <link>https://lmluque.github.io/publication/melymcb-0012/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://lmluque.github.io/publication/melymcb-0012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Numerical evidence of hyperscaling violation in wetting transitions of the random-bond Ising model in $d=2$ dimensions</title>
-      <link>https://lmluque.github.io/publication/phys-rev-e-95-022801/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://lmluque.github.io/publication/phys-rev-e-95-022801/</guid>
       <description></description>
     </item>
     
@@ -317,15 +301,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://lmluque.github.io/publication/melymcb-0021/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Estudio de la influencia del confinammiento en las propiedades críticas de un modelo con tres estados de espín</title>
-      <link>https://lmluque.github.io/project/wetting/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://lmluque.github.io/project/wetting/</guid>
-      <description>&lt;p&gt;El objetivo de este proyecto es estudiar los efectos del confinamiento en un modelo con tres estados de espín y, en particular, la segregación del tercer estado de espín $s_{i}=0$ (que también suele ser identificado como impurezas) en la interfase. Dicho fenómeno se conoce como adsorción interfacial. Para ello se combinan técnicas computacionales y métodos utilizados en la mecánica estadística.&lt;/p&gt;
-</description>
     </item>
     
     <item>
